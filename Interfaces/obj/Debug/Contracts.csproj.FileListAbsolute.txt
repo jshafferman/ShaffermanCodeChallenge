@@ -1,0 +1,5 @@
+C:\Users\Jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\Interfaces\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\Interfaces\obj\Debug\Interfaces.pdb

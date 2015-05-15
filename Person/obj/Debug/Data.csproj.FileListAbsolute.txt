@@ -1,0 +1,7 @@
+C:\Users\Jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\Person\bin\Debug\Person.dll
+C:\Users\Jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\Person\bin\Debug\Person.pdb
+C:\Users\Jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\Person\obj\Debug\Person.dll
+C:\Users\Jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\Person\obj\Debug\Person.pdb
+C:\Users\Jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\Person\bin\Debug\Interfaces.dll
+C:\Users\Jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\Person\bin\Debug\Interfaces.pdb
+C:\Users\Jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\Person\obj\Debug\Data.csprojResolveAssemblyReference.cache

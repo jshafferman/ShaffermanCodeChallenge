@@ -1,0 +1,13 @@
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\UnitTests\bin\Debug\UnitTests.dll
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\UnitTests\bin\Debug\NSubstitute.dll
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\UnitTests\bin\Debug\nunit.framework.dll
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\UnitTests\bin\Debug\NSubstitute.xml
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\UnitTests\bin\Debug\nunit.framework.xml
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\UnitTests\obj\Debug\UnitTests.dll
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\UnitTests\obj\Debug\UnitTests.pdb
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\UnitTests\bin\Debug\Person.dll
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\UnitTests\bin\Debug\Person.pdb
+C:\Users\Jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\UnitTests\bin\Debug\Interfaces.dll
+C:\Users\Jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\UnitTests\bin\Debug\Interfaces.pdb

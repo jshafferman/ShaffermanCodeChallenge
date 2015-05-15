@@ -1,0 +1,10 @@
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\ShaffermanCodeChallenge\bin\Debug\ShaffermanCodeChallenge.exe.config
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\ShaffermanCodeChallenge\bin\Debug\ShaffermanCodeChallenge.exe
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\ShaffermanCodeChallenge\bin\Debug\ShaffermanCodeChallenge.pdb
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\ShaffermanCodeChallenge\bin\Debug\Person.dll
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\ShaffermanCodeChallenge\bin\Debug\Person.pdb
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\ShaffermanCodeChallenge\obj\Debug\ShaffermanCodeChallenge.csprojResolveAssemblyReference.cache
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\ShaffermanCodeChallenge\obj\Debug\ShaffermanCodeChallenge.exe
+c:\users\jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\ShaffermanCodeChallenge\obj\Debug\ShaffermanCodeChallenge.pdb
+C:\Users\Jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\ShaffermanCodeChallenge\bin\Debug\Interfaces.dll
+C:\Users\Jeff\documents\visual studio 2013\Projects\ShaffermanCodeChallenge\ShaffermanCodeChallenge\bin\Debug\Interfaces.pdb
